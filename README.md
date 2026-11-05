@@ -24,3 +24,7 @@ Lab photos, headshots, event photos, publication PDFs and the CV still load from
 ## Making edits
 
 Open a file on github.com, click the pencil icon, edit, and click **Commit changes**. The live site updates within a minute or two.
+
+## Visitor analytics
+
+Every page loads a small GoatCounter script (just before `</head>`) that counts visits without cookies. See visitors, countries, pages, referrers, and devices at https://britcass.goatcounter.com (sign in with the account created for it). Bots and your own visits from a browser where you've told GoatCounter to ignore you are not counted. New pages should copy the same `<script data-goatcounter=...>` line.
